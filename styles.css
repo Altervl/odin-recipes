@@ -1,5 +1,24 @@
 body {
+    box-sizing: border-box;
     background-color: #e8a552cd;
+}
+
+.wrapper {
+    margin: 15px auto;
+    text-align: center;
+}
+
+.heading {
+    padding: 5px;
+    border-style: groove;
+    border-color: #349110ba;
+    margin-bottom: 15px;
+}
+
+.links {
+    display: inline-block;
+    border: 1px solid #cd0808b2;
+    padding: 10px;
 }
 
 a {
